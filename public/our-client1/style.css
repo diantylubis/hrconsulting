@@ -3,47 +3,48 @@
     margin: 0;
     font-family: "inter", sans-serif;
     list-style: none;
-    
 }
 
 .navbar .container .navbar-brand {
     color: hsl(226, 53%, 43%);
     font-weight: bold;
 }
-.navbar .nav.item{
+
+.navbar .nav.item {
     font-weight: bold;
 }
-.img-image{
+
+.img-image {
     width: 100%;
 }
-.siadam{
-    justify-content: center;
+
+.siadam {
     align-items: center;
 }
 
-.siadam1{
+.siadam1 {
     width: 1440px;
     height: 125px;
     padding: 1px;
-    background-image: url(Rectangle\ 64.png);
+    background-image: url(image/Rectangle64.png);
     background-size: cover;
 }
-.siadam2 h2{
-   font-weight: bold;
+
+.siadam2 h2 {
+    font-weight: bold;
 }
-.siadam3{
-    padding: 0;
-    width: 1144px;
-    height: 283px;
-    background-image: url(Rectangle\ 65.png);
-    color: #fff;
-    left: 138px;
+
+.bagian4 {
+    background: linear-gradient(129deg, rgba(42, 59, 89, 1) 0%, rgba(90, 93, 98, 0.5242471988795518) 59%, rgba(20, 28, 41, 0.12368697478991597) 82%, rgba(255, 255, 255, 0.35898109243697474) 83%);
+    border-radius: 10px;
+    padding: 5px;
 }
-.siadam4{
+
+.siadam4 {
     width: 1440px;
     height: 869px;
-   
 }
+
 .footer {
     padding: 80px 0 80px 0;
     background-color: #0D1C37;

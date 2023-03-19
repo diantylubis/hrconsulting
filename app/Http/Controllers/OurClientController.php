@@ -4,9 +4,10 @@ namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
 
-class OurClienController extends Controller
+class OurClientController extends Controller
 {
     function ourclient(){
         return view('pages.our-client');
-      }
+    }
 }
+

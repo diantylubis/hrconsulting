@@ -1,6 +1,6 @@
 @extends('layouts/app')
 
-@section('style')
+@section('styling')
 <link rel="stylesheet" href="{{ url('service/style.css') }}">
 @endsection
 
