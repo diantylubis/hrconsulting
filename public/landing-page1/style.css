@@ -1,0 +1,73 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: "inter", sans-serif;
+   
+}
+
+.navbar .container .navbar-brand {
+    color: hsl(226, 53%, 43%);
+   
+}
+
+.section1 .pinarik1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.img-gambar{
+    width: 100%;
+}
+
+.pinarik2 {
+    height: 604px;
+    align-items: center;
+    justify-content: center;
+    background-color: #0D1C37;
+}
+
+.pinarik2 p {
+    color: #fff;
+    line-height: 60px;
+    align-items: center;
+    size: 100px;
+    width: 800px;
+}
+
+.pinarik3 {
+    background-color: #0D1C37;
+    color: #fff;
+    
+    height: 250px;
+   
+}
+
+.section3 h2{
+    text-align: center;
+    
+}
+
+span{
+    font-size: 70px;
+}
+.section4 .pinarik4 {
+    width: 374px;
+    height: 100px;
+    align-items: center;
+}
+
+.footer {
+    padding: 80px 0 80px 0;
+    background-color: #0D1C37;
+    color: white;
+}
+
+.jaraktepi {
+    padding: 0 30px 0 30px;
+}
+
+.medsos ul li {
+    display: inline-block;
+    color: #fff;
+}
+

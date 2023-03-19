@@ -1,0 +1,60 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: "inter", sans-serif;
+    list-style: none;
+    
+}
+
+.navbar .container .navbar-brand {
+    color: hsl(226, 53%, 43%);
+    font-weight: bold;
+}
+.navbar .nav.item{
+    font-weight: bold;
+}
+.img-image{
+    width: 100%;
+}
+.siadam{
+    justify-content: center;
+    align-items: center;
+}
+
+.siadam1{
+    width: 1440px;
+    height: 125px;
+    padding: 1px;
+    background-image: url(Rectangle\ 64.png);
+    background-size: cover;
+}
+.siadam2 h2{
+   font-weight: bold;
+}
+.siadam3{
+    padding: 0;
+    width: 1144px;
+    height: 283px;
+    background-image: url(Rectangle\ 65.png);
+    color: #fff;
+    left: 138px;
+}
+.siadam4{
+    width: 1440px;
+    height: 869px;
+   
+}
+.footer {
+    padding: 80px 0 80px 0;
+    background-color: #0D1C37;
+    color: white;
+}
+
+.jaraktepi {
+    padding: 0 30px 0 30px;
+}
+
+.medsos ul li {
+    display: inline-block;
+    color: #fff;
+}
