@@ -28,12 +28,10 @@
     </div>
 
 
-
     <!--section2-->
     <div class="section2">
         <div class="container">
             <div class="pinarik2 text-center d-flex">
-              
                 <p style="justify-content: center margin-auto;">  <span>"</span>Program ini dirancang untuk membantu perusahaan anda membangun sistem pengelolaan manusia yang efektif dan efisien melalui perencanaan yang sistematis dan terintegrasi agar mampu berkontribusi dan produktif terhadap pencapaian tujuan perusahaan
                    <br> 
                 <a><img src="landing-page1/image/Logo2.png">Logoispum</a>

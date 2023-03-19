@@ -1,7 +1,7 @@
 <nav class="navbar navbar-expand-lg bg-body-tertiary fixed-top">
         <div class="container">
             <a class="navbar-brand" href="#">
-                <img src="Logo.png" alt="" />Logoispum</a>
+                <img src="about-us1/Logo.png" alt="" />Logoispum</a>
 
             <div class="collapse navbar-collapse justify-content-center" id="navbarNav">
                 <div class="navbar">

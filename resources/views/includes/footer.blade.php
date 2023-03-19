@@ -4,7 +4,7 @@
 
                 <div class="col-4">
                     <span class="fw-bold">
-              <img src="Logo2.png" alt="" />Logoispum</span>
+              <img src="about-us1/Logo2.png" alt="" />Logoispum</span>
                     <p>Company address is belongs here</p>
                 </div>
                 <div class="col-4">

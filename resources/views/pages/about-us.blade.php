@@ -96,7 +96,7 @@
                 <div class="col-6">
                     <div class="row">
                         <div class="col-2">
-                            <img src="about-us/image 8.png" alt="">
+                            <img src="about-us1/image 8.png" alt="">
                         </div>
                         <div class="col-10">
                             <h2>Trusted</h2>
@@ -107,7 +107,7 @@
                 <div class="col-6">
                     <div class="row">
                         <div class="col-2">
-                            <img src="about-us/image 9.png" alt="">
+                            <img src="about-us1/image 9.png" alt="">
                         </div>
                         <div class="col-10">
                             <h2>Manageable</h2>
